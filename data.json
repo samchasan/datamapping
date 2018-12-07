@@ -1,0 +1,3490 @@
+[
+  {
+    "year": 2016,
+    "language": "Mandan",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Edwin Benson",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Wichita",
+    "languageFam": "Caddoan",
+    "country": "United States",
+    "lastPerson": "Doris McLemore",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Gugu Thaypan",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Tommy George",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Nuchatlaht dialect of Nuu-chah-nulth",
+    "languageFam": "Wakashan",
+    "country": "Canada",
+    "lastPerson": "Alban Michael",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Amurdag",
+    "languageFam": "Iwaidjan",
+    "country": "Australia",
+    "lastPerson": "Charlie Mungulda",
+    "modded": ""
+  },
+  {
+    "year": 2014,
+    "language": "Klallam",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Hazel Sampson",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Livonian",
+    "languageFam": "Uralic > Finnic",
+    "country": "Latvia",
+    "lastPerson": "Grizelda Kristina",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Yurok",
+    "languageFam": "Algic",
+    "country": "United States",
+    "lastPerson": "Archie Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Cromarty dialect of Scots",
+    "languageFam": "Germanic",
+    "country": "United Kingdom",
+    "lastPerson": "Bob Hogg",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Dhungaloo",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Roy Hatfield",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Gladys Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Holikachuk",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Wilson \"Tiny\" Deacon",
+    "modded": ""
+  },
+  {
+    "year": 2011,
+    "language": "Lower Arrernte",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Brownie Doolan Perrurle",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Pazeh",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "Pan Jin-yu",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Cochin Indo-Portuguese Creole",
+    "languageFam": "Portuguese-based Creole",
+    "country": "Southern India",
+    "lastPerson": "William Rozario",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Aka-Bo",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Boa Sr.",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Kora",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Ms. Boro",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Jeru",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Nyawaygi",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Willie Seaton",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Gugu Badhun",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Muruwari",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Agavotaguerra",
+    "languageFam": "Arawakan",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Arikem",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Karipúna",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Pataxó Hã-Ha-Hãe",
+    "languageFam": "unclassified",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aribwatsa",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Papua New Guinea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Lelak",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Malaysia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Papora-Hoanya",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Plains Apache",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "Alfred Chalepah Jr.",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Dura",
+    "languageFam": "Sino-Tibetan",
+    "country": "Nepal",
+    "lastPerson": "Soma Devi Dura",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Eyak",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Marie Smith Jones",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Gros Ventre",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "28 Theresa Lamebull",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Javindo",
+    "languageFam": "Dutch-based creole",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "Wasco dialect of Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Madeline Brunoe McInturff",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "A-Pucikwar",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Whulshootseed",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Ellen Williams",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Berbice Creole Dutch",
+    "languageFam": "Dutch-based creole",
+    "country": "Guyana",
+    "lastPerson": "Bertha Bell",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Osage",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Lucille Roubedeaux",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Barrow Point",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2004,
+    "language": "Duli",
+    "languageFam": "Niger-Congo > Adamawa",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Akkala Sami",
+    "languageFam": "Uralic > Sami",
+    "country": "Russia",
+    "lastPerson": "Marja Sergina",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Klamath-Modoc",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Garig Ilgar",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Alngith",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Areba",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Atampaya",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Umbindhamu",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Unami",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Edward Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Gaagudju",
+    "languageFam": "Arnhem Land languages",
+    "country": "Australia",
+    "lastPerson": "Big Bill Neidjie",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Serrano",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Dorothy Ramon",
+    "modded": ""
+  },
+  {
+    "year": 2001,
+    "language": "Amanayé",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": "year",
+    "language": "language",
+    "languageFam": "languageFam",
+    "country": "country",
+    "lastPerson": "lastPerson",
+    "modded": "modded"
+  },
+  {
+    "year": 2016,
+    "language": "Mandan",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Edwin Benson",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Wichita",
+    "languageFam": "Caddoan",
+    "country": "United States",
+    "lastPerson": "Doris McLemore",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Gugu Thaypan",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Tommy George",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Nuchatlaht dialect of Nuu-chah-nulth",
+    "languageFam": "Wakashan",
+    "country": "Canada",
+    "lastPerson": "Alban Michael",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Amurdag",
+    "languageFam": "Iwaidjan",
+    "country": "Australia",
+    "lastPerson": "Charlie Mungulda",
+    "modded": ""
+  },
+  {
+    "year": 2014,
+    "language": "Klallam",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Hazel Sampson",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Livonian",
+    "languageFam": "Uralic > Finnic",
+    "country": "Latvia",
+    "lastPerson": "Grizelda Kristina",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Yurok",
+    "languageFam": "Algic",
+    "country": "United States",
+    "lastPerson": "Archie Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Cromarty dialect of Scots",
+    "languageFam": "Germanic",
+    "country": "United Kingdom",
+    "lastPerson": "Bob Hogg",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Dhungaloo",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Roy Hatfield",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Gladys Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Holikachuk",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Wilson \"Tiny\" Deacon",
+    "modded": ""
+  },
+  {
+    "year": 2011,
+    "language": "Lower Arrernte",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Brownie Doolan Perrurle",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Pazeh",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "Pan Jin-yu",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Cochin Indo-Portuguese Creole",
+    "languageFam": "Portuguese-based Creole",
+    "country": "Southern India",
+    "lastPerson": "William Rozario",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Aka-Bo",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Boa Sr.",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Kora",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Ms. Boro",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Jeru",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Nyawaygi",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Willie Seaton",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Gugu Badhun",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Muruwari",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Agavotaguerra",
+    "languageFam": "Arawakan",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Arikem",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Karipúna",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Pataxó Hã-Ha-Hãe",
+    "languageFam": "unclassified",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aribwatsa",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Papua New Guinea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Lelak",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Malaysia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Papora-Hoanya",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Plains Apache",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "Alfred Chalepah Jr.",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Dura",
+    "languageFam": "Sino-Tibetan",
+    "country": "Nepal",
+    "lastPerson": "Soma Devi Dura",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Eyak",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Marie Smith Jones",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Gros Ventre",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "28 Theresa Lamebull",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Javindo",
+    "languageFam": "Dutch-based creole",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "Wasco dialect of Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Madeline Brunoe McInturff",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "A-Pucikwar",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Whulshootseed",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Ellen Williams",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Berbice Creole Dutch",
+    "languageFam": "Dutch-based creole",
+    "country": "Guyana",
+    "lastPerson": "Bertha Bell",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Osage",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Lucille Roubedeaux",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Barrow Point",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2004,
+    "language": "Duli",
+    "languageFam": "Niger-Congo > Adamawa",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Akkala Sami",
+    "languageFam": "Uralic > Sami",
+    "country": "Russia",
+    "lastPerson": "Marja Sergina",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Klamath-Modoc",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Garig Ilgar",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Alngith",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Areba",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Atampaya",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Umbindhamu",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Unami",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Edward Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Gaagudju",
+    "languageFam": "Arnhem Land languages",
+    "country": "Australia",
+    "lastPerson": "Big Bill Neidjie",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Serrano",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Dorothy Ramon",
+    "modded": ""
+  },
+  {
+    "year": 2001,
+    "language": "Amanayé",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": "year",
+    "language": "language",
+    "languageFam": "languageFam",
+    "country": "country",
+    "lastPerson": "lastPerson",
+    "modded": "modded"
+  },
+  {
+    "year": 2016,
+    "language": "Mandan",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Edwin Benson",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Wichita",
+    "languageFam": "Caddoan",
+    "country": "United States",
+    "lastPerson": "Doris McLemore",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Gugu Thaypan",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Tommy George",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Nuchatlaht dialect of Nuu-chah-nulth",
+    "languageFam": "Wakashan",
+    "country": "Canada",
+    "lastPerson": "Alban Michael",
+    "modded": ""
+  },
+  {
+    "year": 2016,
+    "language": "Amurdag",
+    "languageFam": "Iwaidjan",
+    "country": "Australia",
+    "lastPerson": "Charlie Mungulda",
+    "modded": ""
+  },
+  {
+    "year": 2014,
+    "language": "Klallam",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Hazel Sampson",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Livonian",
+    "languageFam": "Uralic > Finnic",
+    "country": "Latvia",
+    "lastPerson": "Grizelda Kristina",
+    "modded": ""
+  },
+  {
+    "year": 2013,
+    "language": "Yurok",
+    "languageFam": "Algic",
+    "country": "United States",
+    "lastPerson": "Archie Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Cromarty dialect of Scots",
+    "languageFam": "Germanic",
+    "country": "United Kingdom",
+    "lastPerson": "Bob Hogg",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Dhungaloo",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Roy Hatfield",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Gladys Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2012,
+    "language": "Holikachuk",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Wilson \"Tiny\" Deacon",
+    "modded": ""
+  },
+  {
+    "year": 2011,
+    "language": "Lower Arrernte",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Brownie Doolan Perrurle",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Pazeh",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "Pan Jin-yu",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Cochin Indo-Portuguese Creole",
+    "languageFam": "Portuguese-based Creole",
+    "country": "Southern India",
+    "lastPerson": "William Rozario",
+    "modded": ""
+  },
+  {
+    "year": 2010,
+    "language": "Aka-Bo",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Boa Sr.",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Kora",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "Ms. Boro",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aka-Jeru",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Nyawaygi",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Willie Seaton",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Gugu Badhun",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Muruwari",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Agavotaguerra",
+    "languageFam": "Arawakan",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Arikem",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Karipúna",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Pataxó Hã-Ha-Hãe",
+    "languageFam": "unclassified",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Aribwatsa",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Papua New Guinea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Lelak",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Malaysia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2009,
+    "language": "Papora-Hoanya",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Plains Apache",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "Alfred Chalepah Jr.",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Dura",
+    "languageFam": "Sino-Tibetan",
+    "country": "Nepal",
+    "lastPerson": "Soma Devi Dura",
+    "modded": ""
+  },
+  {
+    "year": 2008,
+    "language": "Eyak",
+    "languageFam": "Na-Dene",
+    "country": "United States",
+    "lastPerson": "Marie Smith Jones",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Gros Ventre",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "28 Theresa Lamebull",
+    "modded": ""
+  },
+  {
+    "year": 2007,
+    "language": "Javindo",
+    "languageFam": "Dutch-based creole",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "Wasco dialect of Upper Chinook",
+    "languageFam": "Chinookan",
+    "country": "United States",
+    "lastPerson": "Madeline Brunoe McInturff",
+    "modded": ""
+  },
+  {
+    "year": 2006,
+    "language": "A-Pucikwar",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Whulshootseed",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Ellen Williams",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Berbice Creole Dutch",
+    "languageFam": "Dutch-based creole",
+    "country": "Guyana",
+    "lastPerson": "Bertha Bell",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Osage",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Lucille Roubedeaux",
+    "modded": ""
+  },
+  {
+    "year": 2005,
+    "language": "Barrow Point",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2004,
+    "language": "Duli",
+    "languageFam": "Niger-Congo > Adamawa",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Akkala Sami",
+    "languageFam": "Uralic > Sami",
+    "country": "Russia",
+    "lastPerson": "Marja Sergina",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Klamath-Modoc",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Garig Ilgar",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Alngith",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Areba",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Atampaya",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2003,
+    "language": "Umbindhamu",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Unami",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Edward Thompson",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Gaagudju",
+    "languageFam": "Arnhem Land languages",
+    "country": "Australia",
+    "lastPerson": "Big Bill Neidjie",
+    "modded": ""
+  },
+  {
+    "year": 2002,
+    "language": "Serrano",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Dorothy Ramon",
+    "modded": ""
+  },
+  {
+    "year": 2001,
+    "language": "Amanayé",
+    "languageFam": "Tupian",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1905,
+    "language": "Tasmanian",
+    "languageFam": "unclassified",
+    "country": "Australia",
+    "lastPerson": "Fanny Cochrane Smith",
+    "modded": ""
+  },
+  {
+    "year": 1908,
+    "language": "Mohegan-Pequot",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Fidelia Fielding",
+    "modded": ""
+  },
+  {
+    "year": 1910,
+    "language": "Kwalhioqua",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1915,
+    "language": "Yamhill dialect of Northern Kalapuya",
+    "languageFam": "Kalapuyan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1916,
+    "language": "Yahi",
+    "languageFam": "isolate (Hokan?)",
+    "country": "United States",
+    "lastPerson": "Ishi",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Mutsun",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Ascencion Solorsano",
+    "modded": ""
+  },
+  {
+    "year": 1931,
+    "language": "Kaurna",
+    "languageFam": "Pama-Nyungan",
+    "country": "South Australia",
+    "lastPerson": "Ivaritji,now being revived",
+    "modded": ""
+  },
+  {
+    "year": 1933,
+    "language": "Gabrielino",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1934,
+    "language": "Juaneño",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1934,
+    "language": "Puelche",
+    "languageFam": "Chon",
+    "country": "Argentina",
+    "lastPerson": "Trruúlmani",
+    "modded": ""
+  },
+  {
+    "year": 1934,
+    "language": "Takelma",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "Frances Johnson",
+    "modded": ""
+  },
+  {
+    "year": 1936,
+    "language": "Narungga",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1937,
+    "language": "Yoncalla",
+    "languageFam": "Kalapuyan",
+    "country": "United States",
+    "lastPerson": "Laura Blackery Albertson",
+    "modded": ""
+  },
+  {
+    "year": 1937,
+    "language": "Kitanemuk",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Marcelino Rivera, Isabella Gonzales, and Refugia Duran",
+    "modded": ""
+  },
+  {
+    "year": 1939,
+    "language": "Rumsen",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Isabel Meadows",
+    "modded": ""
+  },
+  {
+    "year": 1939,
+    "language": "Miluk",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Annie Miner Peterson",
+    "modded": ""
+  },
+  {
+    "year": 1939,
+    "language": "Northern Kalapuya",
+    "languageFam": "Kalapuyan",
+    "country": "United States",
+    "lastPerson": "Annie Miner Peterson",
+    "modded": ""
+  },
+  {
+    "year": 1940,
+    "language": "Chitimacha",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "Delphine Ducloux",
+    "modded": ""
+  },
+  {
+    "year": 1940,
+    "language": "Pentlatch",
+    "languageFam": "Salishan",
+    "country": "Canada",
+    "lastPerson": "Joe Nimnim",
+    "modded": ""
+  },
+  {
+    "year": 1950,
+    "language": "Kaniet",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Papua New Guinea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1951,
+    "language": "Alsea",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "John Albert",
+    "modded": ""
+  },
+  {
+    "year": 1952,
+    "language": "Martha's Vineyard Sign language",
+    "languageFam": "Sign language",
+    "country": "United States",
+    "lastPerson": "Katie West",
+    "modded": ""
+  },
+  {
+    "year": 1954,
+    "language": "Central Kalapuya",
+    "languageFam": "Kalapuyan",
+    "country": "United States",
+    "lastPerson": "John B. Hudson",
+    "modded": ""
+  },
+  {
+    "year": 1954,
+    "language": "Ifo",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Vanuatu",
+    "lastPerson": "James Nalig",
+    "modded": ""
+  },
+  {
+    "year": 1958,
+    "language": "Salinan",
+    "languageFam": "isolate (Hokan?)",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1958,
+    "language": "Molala",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Fred Yelkes",
+    "modded": ""
+  },
+  {
+    "year": 1958,
+    "language": "Omurano",
+    "languageFam": "Zaparoan",
+    "country": "Peru",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1959,
+    "language": "Catawba",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Chief Sam Blue",
+    "modded": ""
+  },
+  {
+    "year": 1960,
+    "language": "Oriel dialect, Irish",
+    "languageFam": "Celtic",
+    "country": "Ireland",
+    "lastPerson": "Annie O'Hanlon",
+    "modded": ""
+  },
+  {
+    "year": 1960,
+    "language": "Siuslaw",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Mary Barrett Elliott",
+    "modded": ""
+  },
+  {
+    "year": 1960,
+    "language": "Cappadocian Greek",
+    "languageFam": "Hellenic",
+    "country": "Greece",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1960,
+    "language": "Timor Pidgin",
+    "languageFam": "Portuguese creole",
+    "country": "East Timor",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1962,
+    "language": "Wiyot",
+    "languageFam": "Algic",
+    "country": "United States",
+    "lastPerson": "Delia Prince",
+    "modded": ""
+  },
+  {
+    "year": 1963,
+    "language": "Galice",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "Hoxie Simmons",
+    "modded": ""
+  },
+  {
+    "year": 1963,
+    "language": "Jorá",
+    "languageFam": "Tupi",
+    "country": "Bolivia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1965,
+    "language": "Barbareño",
+    "languageFam": "Chumashan",
+    "country": "United States",
+    "lastPerson": "Mary Yee",
+    "modded": ""
+  },
+  {
+    "year": 1965,
+    "language": "Natchez",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "Nancy Raven and Watt Sam",
+    "modded": ""
+  },
+  {
+    "year": 1965,
+    "language": "Wakawaka",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1968,
+    "language": "Welsh-Romani",
+    "languageFam": "Romani",
+    "country": "United Kingdom",
+    "lastPerson": "Manfri Wood",
+    "modded": ""
+  },
+  {
+    "year": 1970,
+    "language": "Tillamook",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1975,
+    "language": "Chicomuceltec",
+    "languageFam": "Mayan",
+    "country": "Guatemala",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1972,
+    "language": "Hanis",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Martha Harney Johnson",
+    "modded": ""
+  },
+  {
+    "year": 1972,
+    "language": "Mbabaram",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Albert Bennett",
+    "modded": ""
+  },
+  {
+    "year": 1974,
+    "language": "Moksela",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1975,
+    "language": "Homa",
+    "languageFam": "Bantu",
+    "country": "Sudan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1975,
+    "language": "Yugh",
+    "languageFam": "Yeniseian",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1976,
+    "language": "Aasáx",
+    "languageFam": "Cushitic",
+    "country": "Tanzania",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1980,
+    "language": "Twana",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Warrungu",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Alf Palmer",
+    "modded": ""
+  },
+  {
+    "year": 1982,
+    "language": "Dagoman",
+    "languageFam": "Australian",
+    "country": "Australia",
+    "lastPerson": "Martha Hart",
+    "modded": ""
+  },
+  {
+    "year": 1983,
+    "language": "Kansa",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Walter Kekahbah",
+    "modded": ""
+  },
+  {
+    "year": 1984,
+    "language": "Yavitero",
+    "languageFam": "Arawakan",
+    "country": "Venezuela",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1986,
+    "language": "Jiwarli",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Jack Butler",
+    "modded": ""
+  },
+  {
+    "year": 1986,
+    "language": "Mangala",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Dyangadi",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Negerhollands",
+    "languageFam": "Dutch-based creole",
+    "country": "United States",
+    "lastPerson": "Alice Stevens",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Basa-Gumna",
+    "languageFam": "Niger-Congo > Benue-Congo",
+    "country": "Nigeria",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1988,
+    "language": "Atsugewi",
+    "languageFam": "Palaihnihan",
+    "country": "United States",
+    "lastPerson": "Medie Webster",
+    "modded": ""
+  },
+  {
+    "year": 1988,
+    "language": "Nooksack",
+    "languageFam": "Salishan",
+    "country": "United States",
+    "lastPerson": "Sindick Jimmy",
+    "modded": ""
+  },
+  {
+    "year": 1988,
+    "language": "ǁXegwi",
+    "languageFam": "Tuu",
+    "country": "South Africa",
+    "lastPerson": "Jopi Mabinda",
+    "modded": ""
+  },
+  {
+    "year": 1989,
+    "language": "Kamassian",
+    "languageFam": "Uralic > Samoyedic",
+    "country": "Russia",
+    "lastPerson": "Klavdiya Plotnikova",
+    "modded": ""
+  },
+  {
+    "year": 1989,
+    "language": "Miami-Illinois",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1989,
+    "language": "Kungarakany",
+    "languageFam": "Gunwinyguan",
+    "country": "Australia",
+    "lastPerson": "Madeline England",
+    "modded": ""
+  },
+  {
+    "year": 1990,
+    "language": "Shasta",
+    "languageFam": "Shastan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1990,
+    "language": "Wappo",
+    "languageFam": "Yuki–Wappo",
+    "country": "United States",
+    "lastPerson": "Laura Fish Somersal",
+    "modded": ""
+  },
+  {
+    "year": 1990,
+    "language": "Unggumi",
+    "languageFam": "Worrorra",
+    "country": "Australia",
+    "lastPerson": "Morndi Munro",
+    "modded": ""
+  },
+  {
+    "year": 1991,
+    "language": "Roncalese (Erronkariko) dialect",
+    "languageFam": "Basque (language isolate)",
+    "country": "Spain",
+    "lastPerson": "Fidela Bernat",
+    "modded": ""
+  },
+  {
+    "year": 1991,
+    "language": "Pánobo",
+    "languageFam": "Panoan",
+    "country": "Peru",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1993,
+    "language": "Andoa",
+    "languageFam": "Zaparoan",
+    "country": "Peru",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1993,
+    "language": "Eastern Abnaki",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Madeline Shay",
+    "modded": ""
+  },
+  {
+    "year": 1994,
+    "language": "Northern Pomo",
+    "languageFam": "Pomoan (Hokan?)",
+    "country": "United States",
+    "lastPerson": "Edna Guerrero",
+    "modded": ""
+  },
+  {
+    "year": 1996,
+    "language": "Iowa-Oto",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Truman Dailey",
+    "modded": ""
+  },
+  {
+    "year": 1997,
+    "language": "Sireniki Yupik",
+    "languageFam": "Eskimo–Aleut",
+    "country": "Russia",
+    "lastPerson": "Valentina Wye",
+    "modded": ""
+  },
+  {
+    "year": 1997,
+    "language": "Ngarnka",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1998,
+    "language": "Mlahsô",
+    "languageFam": "Semitic",
+    "country": "Turkey",
+    "lastPerson": "Ibrahim Hanna",
+    "modded": ""
+  },
+  {
+    "year": 1999,
+    "language": "Nyulnyul",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Carmel Charles",
+    "modded": ""
+  },
+  {
+    "year": 2000,
+    "language": "Sowa",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Vanuatu",
+    "lastPerson": "Maurice Tabi",
+    "modded": ""
+  },
+  {
+    "year": 1950,
+    "language": "|Xam",
+    "languageFam": "Tuu",
+    "country": "South Africa",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Nganyaywana",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Yalarnnga",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Yandruwandha",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Warluwara",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Wariyangga",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 2000,
+    "language": "Ayabadhu",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 2000,
+    "language": "Aghu Tharnggala",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 2000,
+    "language": "Adithinngithigh",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 2000,
+    "language": "Arritinngithigh",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 2000,
+    "language": "Gurnai",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1974,
+    "language": "Manx",
+    "languageFam": "Celtic",
+    "country": "United States",
+    "lastPerson": "Ned Maddrell",
+    "modded": ""
+  },
+  {
+    "year": 1974,
+    "language": "Ona",
+    "languageFam": "Chon",
+    "country": "Argentina",
+    "lastPerson": "Ángela Loij",
+    "modded": ""
+  },
+  {
+    "year": 1977,
+    "language": "Shuadit",
+    "languageFam": "Romance",
+    "country": "southern France",
+    "lastPerson": "Armand Lunel",
+    "modded": ""
+  },
+  {
+    "year": 1994,
+    "language": "Sakhalin Ainu",
+    "languageFam": "Ainu languages",
+    "country": "Japan",
+    "lastPerson": "Take Asai",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Cupeño",
+    "languageFam": "Chumashan",
+    "country": "United States",
+    "lastPerson": "Roscinda Nolasquez",
+    "modded": ""
+  },
+  {
+    "year": 1995,
+    "language": "Martuthunira",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Algy Paterson",
+    "modded": ""
+  },
+  {
+    "year": 1992,
+    "language": "Ukh",
+    "languageFam": "Northwest Caucasian",
+    "country": "Turkey",
+    "lastPerson": "Tevfik Esenç",
+    "modded": ""
+  },
+  {
+    "year": 1901,
+    "language": "Aka-Bea",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1901,
+    "language": "Oko-Juwoi",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1901,
+    "language": "Aka-Kol",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1901,
+    "language": "Aka-Kede",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1901,
+    "language": "Akar-Bale",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1902,
+    "language": "Dyirringany",
+    "languageFam": "Pama–Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1908,
+    "language": "Siraya",
+    "languageFam": "Austronesian",
+    "country": "Taiwan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1917,
+    "language": "Pochutec",
+    "languageFam": "Uto-Aztecan",
+    "country": "Mexico",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1921,
+    "language": "Chagatai",
+    "languageFam": "Turkic",
+    "country": "Turkmenistan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1925,
+    "language": "Subtiaba",
+    "languageFam": "Oto-Manguean or Subtiaba-Tlapanec",
+    "country": "Nicaragua",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1931,
+    "language": "Tonkawa",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1934,
+    "language": "Biloxi",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Emma Jackson",
+    "modded": ""
+  },
+  {
+    "year": 1942,
+    "language": "Upper Umpqua",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "Wolverton Orton",
+    "modded": ""
+  },
+  {
+    "year": 1947,
+    "language": "Gafat",
+    "languageFam": "Semitic",
+    "country": "Ethiopia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1949,
+    "language": "Kunza",
+    "languageFam": "unclassified",
+    "country": "Chile",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1954,
+    "language": "Tây Bồi",
+    "languageFam": "French-based Pidgin",
+    "country": "Vietnam",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1955,
+    "language": "Wotapuri-Katarqalai",
+    "languageFam": "Indo-Aryan",
+    "country": "Afghanistan",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1961,
+    "language": "Wyandot",
+    "languageFam": "Iroquoian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1976,
+    "language": "Muskum",
+    "languageFam": "Chadic",
+    "country": "Chad",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1979,
+    "language": "Pitta Pitta",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "Ivy Nardoo and Linda Craigie",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Dirari",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Dyaberdyaber",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Erre",
+    "languageFam": "Australian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Umbugarla",
+    "languageFam": "Arnhem Land languages or Darwin Region languages",
+    "country": "Australia",
+    "lastPerson": "Butcher Knight",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Yawarawarga",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1994,
+    "language": "Aka-Cari",
+    "languageFam": "Andamanese",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1913,
+    "language": "Tataviam",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Juan José Fustero",
+    "modded": ""
+  },
+  {
+    "year": 1914,
+    "language": "Sened",
+    "languageFam": "Berber",
+    "country": "Tunisia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1915,
+    "language": "Cacaopera",
+    "languageFam": "Misumalpan",
+    "country": "El Salvador",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1916,
+    "language": "Seru",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Malaysia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1940,
+    "language": "Ajawa",
+    "languageFam": "Chadic",
+    "country": "Nigeria",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Kwadi",
+    "languageFam": "Khoe",
+    "country": "Angola",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1999,
+    "language": "Kw'adza",
+    "languageFam": "Cushitic",
+    "country": "Tanzania",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1900,
+    "language": "Classical Mandaic",
+    "languageFam": "Semitic",
+    "country": "Iraq",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1920,
+    "language": "Yupiltepeque",
+    "languageFam": "Xincan",
+    "country": "Guatemala",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1982,
+    "language": "Dyugun",
+    "languageFam": "Australian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1982,
+    "language": "Kato",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Yugambal",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Yawuru",
+    "languageFam": "Australian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1996,
+    "language": "Katabaga",
+    "languageFam": "Malayo-Polynesian",
+    "country": "The Philippines",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1996,
+    "language": "Palumata",
+    "languageFam": "Austronesian",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1998,
+    "language": "Skepi Creole Dutch",
+    "languageFam": "Dutch-based creole",
+    "country": "Guyana",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1999,
+    "language": "Ineseño",
+    "languageFam": "Chumashan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1920,
+    "language": "Mochica",
+    "languageFam": "Chimuan",
+    "country": "Peru",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1920,
+    "language": "Chochenyo",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1920,
+    "language": "Island Carib",
+    "languageFam": "Cariban",
+    "country": "Caribbean Sea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1929,
+    "language": "Bear River",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Mattole",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Cayuse",
+    "languageFam": "isolate/unclassified",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Chimariko",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "Sally Noble",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Kathlamet",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "Charles Cultee",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Lower Chinook",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Mahican",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Clackamas dialect of Upper Chinook",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1930,
+    "language": "Kitsai",
+    "languageFam": "Caddoan",
+    "country": "United States",
+    "lastPerson": "Kai Kai",
+    "modded": ""
+  },
+  {
+    "year": 1940,
+    "language": "Chemakum",
+    "languageFam": "Chimakuan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1950,
+    "language": "Bohemian Romani",
+    "languageFam": "mixed language",
+    "country": "Czech Republic",
+    "lastPerson": "after World War II, due to extermination of most of its speakers in Nazi concentration camps.",
+    "modded": ""
+  },
+  {
+    "year": 1950,
+    "language": "Pijao",
+    "languageFam": "unclassified",
+    "country": "Colombia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1960,
+    "language": "Pirlatapa",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1964,
+    "language": "Aariya",
+    "languageFam": "spurious",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1977,
+    "language": "Nagumi",
+    "languageFam": "Niger-Congo > Benue-Congo",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1981,
+    "language": "Ternateño",
+    "languageFam": "Portuguese Creole",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1983,
+    "language": "Yangman",
+    "languageFam": "Australian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1986,
+    "language": "Bikya",
+    "languageFam": "Niger-Congo > Benue-Congo",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1986,
+    "language": "Bishuo",
+    "languageFam": "Niger-Congo > Benue-Congo",
+    "country": "Cameroon",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Bidyara",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1987,
+    "language": "Laua",
+    "languageFam": "Trans-New Guinea",
+    "country": "Papua New Guinea",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1989,
+    "language": "Hukumina",
+    "languageFam": "Austronesian",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1990,
+    "language": "Lumaete dialect of Kayeli",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1990,
+    "language": "Taman variety of Sak",
+    "languageFam": "Sino-Tibetan",
+    "country": "Myanmar",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1996,
+    "language": "Malaryan",
+    "languageFam": "Dravidian",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 2000,
+    "language": "Mesmes",
+    "languageFam": "Semitic",
+    "country": "Ethiopia",
+    "lastPerson": "Abegaz",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "Atakapa",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "Jersey Dutch",
+    "languageFam": "Dutch-based creole",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "Kazukuru",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Solomon Islands",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "Kyakhta Russian–Chinese Pidgin",
+    "languageFam": "Chinese/Russian-based contact language",
+    "country": "",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "Chaná",
+    "languageFam": "Charruan",
+    "country": "Uruguay",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1920,
+    "language": "East Leinster dialect, Irish",
+    "languageFam": "Celtic",
+    "country": "Ireland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1983,
+    "language": "Antrim dialect, Irish",
+    "languageFam": "Celtic",
+    "country": "Ireland",
+    "lastPerson": "Séamus Bhriain Mac Amhlaig",
+    "modded": ""
+  },
+  {
+    "year": 1975,
+    "language": "Flinders Island",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "lJohnny Flinders",
+    "modded": "m"
+  },
+  {
+    "year": 1990,
+    "language": "Munichi",
+    "languageFam": "unclassified",
+    "country": "Peru",
+    "lastPerson": "Victoria Huancho Icahuate",
+    "modded": ""
+  },
+  {
+    "year": 1970,
+    "language": "Newfoundland Irish",
+    "languageFam": "Celtic",
+    "country": "Canada",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1989,
+    "language": "Leliali dialect of Kayeli",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Indonesia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1950,
+    "language": "Ventureño",
+    "languageFam": "Chumashan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Slovincian",
+    "languageFam": "Slavic",
+    "country": "Poland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1950,
+    "language": "Tunica",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "Sesostrie Youchigant",
+    "modded": "m"
+  },
+  {
+    "year": 1899,
+    "language": "Nawathinehena",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1899,
+    "language": "Ahom",
+    "languageFam": "Tai",
+    "country": "India",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1899,
+    "language": "Waling",
+    "languageFam": "Sino-Tibetan",
+    "country": "Nepal",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1870,
+    "language": "Adai",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1870,
+    "language": "Istrian Albanian",
+    "languageFam": "Albanian",
+    "country": "Croatia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1870,
+    "language": "Mbara",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1898,
+    "language": "Dalmatian",
+    "languageFam": "Romance",
+    "country": "Montenegro",
+    "lastPerson": "Tuone Udaina",
+    "modded": ""
+  },
+  {
+    "year": 1898,
+    "language": "Moriori",
+    "languageFam": "Malayo-Polynesian",
+    "country": "New Zealand",
+    "lastPerson": "Hirawanu Tapu",
+    "modded": ""
+  },
+  {
+    "year": 1894,
+    "language": "Tsetsaut",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "Canada",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1892,
+    "language": "Awabakal",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1886,
+    "language": "Comecrudo",
+    "languageFam": "Comecrudan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1886,
+    "language": "Cotoname",
+    "languageFam": "isolate",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1884,
+    "language": "Yaquina",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1880,
+    "language": "Auregnais",
+    "languageFam": "Romance",
+    "country": "United Kingdom",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1877,
+    "language": "Aruá",
+    "languageFam": "Arauan",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1876,
+    "language": "Bruny Island",
+    "languageFam": "Tasmanian",
+    "country": "Australia",
+    "lastPerson": "Truganini",
+    "modded": ""
+  },
+  {
+    "year": 1870,
+    "language": "Yola",
+    "languageFam": "Germanic",
+    "country": "Ireland",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1871,
+    "language": "Tutelo",
+    "languageFam": "Siouan",
+    "country": "United States",
+    "lastPerson": "Nikonha",
+    "modded": ""
+  },
+  {
+    "year": 1870,
+    "language": "Clatskanie",
+    "languageFam": "Na-Dene > Athabaskan",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1867,
+    "language": "Andoquero",
+    "languageFam": "Witotoan",
+    "country": "Colombia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1864,
+    "language": "Xakriabá",
+    "languageFam": "Ge",
+    "country": "Brazil",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1862,
+    "language": "Caquetio",
+    "languageFam": "Arawakan",
+    "country": "Aruba",
+    "lastPerson": "Nicolaas Pyclas",
+    "modded": ""
+  },
+  {
+    "year": 1858,
+    "language": "Karankawa",
+    "languageFam": "unclassified",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1857,
+    "language": "Woiwurrung",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1855,
+    "language": "Wampanoag",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Dorcas Honorable",
+    "modded": ""
+  },
+  {
+    "year": 1853,
+    "language": "Samaritan",
+    "languageFam": "Semitic",
+    "country": "Palestinian territories",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1853,
+    "language": "Nicoleño",
+    "languageFam": "Uto-Aztecan",
+    "country": "United States",
+    "lastPerson": "Juana Maria",
+    "modded": ""
+  },
+  {
+    "year": 1850,
+    "language": "Norn",
+    "languageFam": "North Germanic",
+    "country": "United Kingdom",
+    "lastPerson": "Walter Sutherland",
+    "modded": ""
+  },
+  {
+    "year": 1850,
+    "language": "Mediterranean Lingua Franca",
+    "languageFam": "Romance-based Pidgin",
+    "country": "Greece",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Chorotega",
+    "languageFam": "Oto-Manguean",
+    "country": "Nicaragua",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Matagalpa",
+    "languageFam": "Misumalpan",
+    "country": "Nicaragua",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Ramaytush",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Kemi Sami",
+    "languageFam": "Uralic > Sami",
+    "country": "Finland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Shinnecock",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Kott",
+    "languageFam": "Yeniseian",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1840,
+    "language": "Nanticoke",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "Lydia Clark",
+    "modded": ""
+  },
+  {
+    "year": 1840,
+    "language": "Mator",
+    "languageFam": "Uralic > Samoyedic",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1842,
+    "language": "Barngarla",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1839,
+    "language": "Gulidjan",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1836,
+    "language": "Wathawurrung",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1836,
+    "language": "Nottoway",
+    "languageFam": "Iroquoian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1835,
+    "language": "Pali",
+    "languageFam": "Indo-Aryan",
+    "country": "Myanmar",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1833,
+    "language": "Esselen",
+    "languageFam": "isolate (Hokan?)",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1829,
+    "language": "Beothuk",
+    "languageFam": "Algic > Algonquian?",
+    "country": "Canada",
+    "lastPerson": "Shanawdithit",
+    "modded": ""
+  },
+  {
+    "year": 1828,
+    "language": "Garza",
+    "languageFam": "Comecrudan",
+    "country": "Mexico",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1828,
+    "language": "Mamulique",
+    "languageFam": "Comecrudan",
+    "country": "Mexico",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1821,
+    "language": "Karkin",
+    "languageFam": "Penutian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1819,
+    "language": "Peerapper",
+    "languageFam": "Tasmanian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1815,
+    "language": "Tambora",
+    "languageFam": "unclassified (Papuan)",
+    "country": "Sumbawa",
+    "lastPerson": "following the 1815 eruption of Mount Tambora",
+    "modded": ""
+  },
+  {
+    "year": 1808,
+    "language": "Nuennone",
+    "languageFam": "Tasmanian",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1803,
+    "language": "Bunwurrung",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1800,
+    "language": "Pallanganmiddang",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1850,
+    "language": "Cochimí",
+    "languageFam": "Yuman-Cochimi(Hokan?)",
+    "country": "Mexico",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Pumpokol",
+    "languageFam": "Yeniseian",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Crimean Gothic",
+    "languageFam": "Germanic",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1850,
+    "language": "Assan",
+    "languageFam": "Yeniseian",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1770,
+    "language": "Esuma",
+    "languageFam": "Kwa",
+    "country": "Côte d'Ivoire",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1791,
+    "language": "Eora",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1791,
+    "language": "Quiripi",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1790,
+    "language": "Powhatan",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1788,
+    "language": "Gundungurra",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1788,
+    "language": "Ngunnawal",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1788,
+    "language": "Thurawal",
+    "languageFam": "Pama-Nyungan",
+    "country": "Australia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1777,
+    "language": "Cornish",
+    "languageFam": "Celtic",
+    "country": "England",
+    "lastPerson": "Dolly Pentreath",
+    "modded": ""
+  },
+  {
+    "year": 1770,
+    "language": "Abipón",
+    "languageFam": "Mataco–Guaicuru",
+    "country": "Argentina",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1770,
+    "language": "Weyto",
+    "languageFam": "unclassified",
+    "country": "Ethiopia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1770,
+    "language": "Cuman",
+    "languageFam": "Turkic",
+    "country": "Hungary",
+    "lastPerson": "István Varró",
+    "modded": ""
+  },
+  {
+    "year": 1763,
+    "language": "Susquehannock",
+    "languageFam": "Iroquoian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1760,
+    "language": "Galwegian dialect, Scottish Gaelic",
+    "languageFam": "Celtic",
+    "country": "United Kingdom",
+    "lastPerson": "Margaret McMurray",
+    "modded": ""
+  },
+  {
+    "year": 1756,
+    "language": "Polabian",
+    "languageFam": "Slavic",
+    "country": "Germany",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1750,
+    "language": "Coahuilteco",
+    "languageFam": "isolate/unclassified",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1750,
+    "language": "Etchemin",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1750,
+    "language": "Chibcha",
+    "languageFam": "Chibchan",
+    "country": "Colombia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1750,
+    "language": "Hilberno-Scottish Gaelic",
+    "languageFam": "Celtic",
+    "country": "United Kingdom",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1750,
+    "language": "Niuatoputapu",
+    "languageFam": "Malayo-Polynesian",
+    "country": "Tonga",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1730,
+    "language": "Arin",
+    "languageFam": "Yeniseian",
+    "country": "Russia",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1750,
+    "language": "Chané",
+    "languageFam": "Arawakan",
+    "country": "Argentina",
+    "lastPerson": "a dialect of Terêna",
+    "modded": "m"
+  },
+  {
+    "year": 1720,
+    "language": "Apalachee",
+    "languageFam": "Muskogean",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1720,
+    "language": "Old Prussian",
+    "languageFam": "Baltic",
+    "country": "Poland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1720,
+    "language": "Cacán",
+    "languageFam": "unclassified",
+    "country": "Chile",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1700,
+    "language": "Pidgin Delaware",
+    "languageFam": "Delaware-based pidgin",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1666,
+    "language": "Old Kentish Sign language",
+    "languageFam": "Village sign language",
+    "country": "England",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1670,
+    "language": "Sudovian",
+    "languageFam": "Baltic",
+    "country": "Lithuania",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1643,
+    "language": "Narragansett",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1650,
+    "language": "Jassic",
+    "languageFam": "Iranian",
+    "country": "Hungary",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1650,
+    "language": "Coptic",
+    "languageFam": "Afro-Asiatic",
+    "country": "Egypt",
+    "lastPerson": "still used as a liturgical language",
+    "modded": "m"
+  },
+  {
+    "year": 1650,
+    "language": "Curonian",
+    "languageFam": "Baltic",
+    "country": "Latvia",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1635,
+    "language": "Jurchen",
+    "languageFam": "Tungusic",
+    "country": "China",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1618,
+    "language": "Lumbee",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1618,
+    "language": "Carolina Algonquian",
+    "languageFam": "Algic > Algonquian",
+    "country": "United States",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1570,
+    "language": "Knaanic",
+    "languageFam": "Slavic",
+    "country": "Poland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1570,
+    "language": "Laurentian",
+    "languageFam": "Iroquoian",
+    "country": "Canada",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1548,
+    "language": "Taino",
+    "languageFam": "Arawakan",
+    "country": "Puerto Rico",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1550,
+    "language": "Semigallian",
+    "languageFam": "Baltic",
+    "country": "Lithuania",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1550,
+    "language": "Guanahatabey",
+    "languageFam": "Unclassified",
+    "country": "Cuba",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1550,
+    "language": "Guanche",
+    "languageFam": "unclassified, maybe Berber",
+    "country": "Spain",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1502,
+    "language": "Tangut",
+    "languageFam": "Sino-Tibetan",
+    "country": "China",
+    "lastPerson": "",
+    "modded": ""
+  },
+  {
+    "year": 1470,
+    "language": "Mozarabic",
+    "languageFam": "Romance",
+    "country": "Portugal",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1470,
+    "language": "Greenlandic Norse",
+    "languageFam": "Germanic",
+    "country": "Greenland",
+    "lastPerson": "",
+    "modded": "m"
+  },
+  {
+    "year": 1470,
+    "language": "Selonian",
+    "languageFam": "Baltic",
+    "country": "Lithuania",
+    "lastPerson": "",
+    "modded": "m"
+  }
+]
